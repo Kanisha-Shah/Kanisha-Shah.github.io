@@ -1,5 +1,6 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
+
 import amazonLogo from "../assets/img/amazon-logo.jpeg";
 import dbLogo from "../assets/img/DB.jpg";
 import v360Logo from "../assets/img/V360.jpeg";
@@ -10,7 +11,6 @@ import projLogo3 from "../assets/img/DS_Salary.jpg";
 import projLogo4 from "../assets/img/object-detection.png";
 import projLogo5 from "../assets/img/hallucination.png";
 
-import columbiaLogo from "../assets/img/CU.png";
 import presidentNU from "../assets/img/presidentNU.png";
 import CSINU from "../assets/img/CSInu.jpg";
 import DSI from "../assets/img/DSI.jpeg";
@@ -18,7 +18,6 @@ import EGSC from "../assets/img/EGSC.jpeg";
 import DSISc from "../assets/img/DSIScholar.jpeg";
 import Merit from "../assets/img/MeritScholarship.jpg";
 
-import projImg1 from "../assets/img/project-img2.png";
 
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
