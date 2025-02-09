@@ -3,7 +3,7 @@
 Welcome to my **personal portfolio website**, where I showcase my **projects, skills, and experience** in **Software Development, Data Science, and Machine Learning**. This website is built to reflect my technical journey and passion for problem-solving, innovation, and AI-driven solutions.
 
 ## 🌐 Live Demo
-Check out my portfolio: **[Kanisha Shah's Portfolio](https://your-portfolio-link.com)**  
+Check out my portfolio: **[Kanisha Shah's Portfolio](https://kanisha-shah.github.io/#home)**  
 
 ---
 
@@ -25,25 +25,21 @@ This portfolio is built with modern **frontend and backend technologies**:
 - **Bootstrap / React-Bootstrap** - Styling & responsive design
 - **CSS3 & Animate.css** - Smooth animations
 - **JavaScript (ES6+)** - Dynamic interactions
+- **GitHub Pages** - Deployment  
 
-### **Backend & Tools**
-- **Node.js & Express.js** *(for API integration, if needed)*
-- **AWS / Firebase** *(if hosting a backend service)*
-- **GitHub Pages / Vercel / Netlify** - Deployment  
-- **OpenSearch / DynamoDB** *(if applicable for projects)*
 
 ---
 
 ## 📸 Screenshots
-![Portfolio Screenshot](https://your-image-link.com)
+![Home Page](image.png)
 
 ---
 
 This portfolio was created as part of my journey while learning React, using inspiration and reference from this GitHub repository:
-🔗 [GitHub Reference]{https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio}
+🔗 [GitHub Reference](https://github.com/judygab/web-dev-projects/tree/main/personal-portfolio)
 
 I’ve incorporated various images from Google as well as from:
-🎨 [iStockPhoto]{https://www.istockphoto.com/illustrations/school-club}
+🎨 [iStockPhoto](https://www.istockphoto.com/illustrations/school-club)
 
 I’m constantly working on improving and updating my portfolio. Feel free to explore and let me know if you have any suggestions or feedback—I’d love to hear your thoughts!
 
@@ -52,5 +48,7 @@ I’m constantly working on improving and updating my portfolio. Feel free to ex
 📬 Contact Me
 
 📧 Email: kanisha.shah@columbia.edu
+
 💻 GitHub: [github.com/Kanisha-Shah](https://github.com/Kanisha-Shah)
-🔗 LinkedIn: [linkedin.com/Kanisha-Shah]https://www.linkedin.com/in/kanisha-shah97/
+
+🔗 LinkedIn: [linkedin.com/Kanisha-Shah](https://www.linkedin.com/in/kanisha-shah97/)
