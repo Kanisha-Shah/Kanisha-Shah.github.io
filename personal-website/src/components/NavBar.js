@@ -38,7 +38,7 @@ export const NavBar = () => {
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
         <Container>
           <Navbar.Brand href="/">
-            <img src={logo} alt="Logo" className="navbar-logo"/>
+            <img src={logo} alt="Logo" className="navbar-logo" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav">
             <span className="navbar-toggler-icon"></span>
@@ -51,13 +51,22 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/kanisha-shah97/"><img src={navIcon1} alt="Linked Link" /></a>
-                <a href="https://github.com/Kanisha-Shah"><img src={navIcon2} alt="Github Link" /></a>
-                <a href="https://leetcode.com/u/Kanisha_9/"><img src={navIcon3} alt="Leet Code" /></a>
+                <a href="https://www.linkedin.com/in/kanisha-shah97/" target="_blank" rel="noopener noreferrer">
+                  <img src={navIcon1} alt="LinkedIn Link" />
+                </a>
+                <a href="https://github.com/Kanisha-Shah" target="_blank" rel="noopener noreferrer">
+                  <img src={navIcon2} alt="GitHub Link" />
+                </a>
+                <a href="https://leetcode.com/u/Kanisha_9/" target="_blank" rel="noopener noreferrer">
+                  <img src={navIcon3} alt="LeetCode Link" />
+                </a>
               </div>
-              <HashLink to='#connect'>
-                <button className="vvd"><span>Let’s Connect</span></button>
-              </HashLink>
+              <button
+                className="vvd"
+                onClick={() => window.open("https://www.linkedin.com/in/kanisha-shah97/", "_blank", "noopener,noreferrer")}
+              >
+                <span>Let’s Connect</span>
+              </button>
             </span>
           </Navbar.Collapse>
         </Container>
