@@ -33,7 +33,7 @@ export const Projects = () => {
       githubLink: "https://www.linkedin.com/feed/update/urn:li:activity:7236850179675435009/"
     },
     {
-      title: "Software Developer | V360 Technology Inc.",
+      title: "Software Developer & Data Scientist | V360 Technology Inc.",
       description: "Developed a probability-based data pipeline, optimizing inventory stock analysis and data consistency for diamond trading",
       imgUrl: v360Logo,
       githubLink: "https://github.com/Kanisha-Shah"
