@@ -27,13 +27,25 @@ export const Projects = () => {
 
   const experience = [
     {
+      title: "Data Scientist | Columbia Irving Medical Center",
+      description: "Developed a deep learning model to detect spinal cords in ultrasound images with 93-95% accuracy for clinical applications",
+      imgUrl: projLogo4,
+      githubLink: "https://www.linkedin.com/in/kanisha-shah97/#:~:text=Honors%20%26%20awards-,Data%20Science%20Institute%20Research%20Scholar,-Data%20Science%20Institute"
+    },
+    {
+      title: "Data Scientist | Elsevier",
+      description: "Designed a RAG-based pipeline using Claude & GPT with MedQuAD dataset to improve accuracy in medical question-answering models",
+      imgUrl: projLogo5,
+      githubLink: "https://www.linkedin.com/in/kanisha-shah97/#:~:text=all%206%20experiences-,Capstone%20Project%20%7C%20Data%20Science%20Institute%20%40%20Columbia%20University,-Capstone%20Project%20%7C%20Data"
+    },
+    {
       title: "Software Engineer | Amazon",
       description: "Redesigned search infrastructure and integrated AI-driven enhancements to improve query performance and search relevance",
       imgUrl: amazonLogo,
       githubLink: "https://www.linkedin.com/feed/update/urn:li:activity:7236850179675435009/"
     },
     {
-      title: "Software Developer & Data Scientist | V360 Technology Inc.",
+      title: "Software Developer| V360 Technology Inc.",
       description: "Developed a probability-based data pipeline, optimizing inventory stock analysis and data consistency for diamond trading",
       imgUrl: v360Logo,
       githubLink: "https://github.com/Kanisha-Shah"
@@ -43,6 +55,12 @@ export const Projects = () => {
       description: "Worked on software testing, object-oriented programming, and integrating BDD frameworks for streamlined data processing",
       imgUrl: dbLogo,
       githubLink: "https://www.linkedin.com/posts/kanisha-shah97_bank-summerinternship2022-deutschebank-activity-6940207695010369537-rQqw?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2oCv0BdYYpiECfvg1xD6A9lvNo_JkC60U"
+    },
+    {
+      title: "Data Scientist | V360 Technology Inc.",
+      description: "Built AI-driven segmentation, cutting processing time by 72%",
+      imgUrl: v360Logo,
+      githubLink: "https://github.com/Kanisha-Shah"
     }
   ];
 
