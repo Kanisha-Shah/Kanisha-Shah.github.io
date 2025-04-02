@@ -38,28 +38,28 @@ export const Skills = () => {
               <p>I know I’m not perfect, but I have the full dedication to learn and adapt new skills, and the drive to continuously improve.<br></br>With a growth-oriented mindset, I embrace challenges as opportunities to evolve and innovate.</p>
               <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                 <div className="item">
+                  <img src={meter3} alt="Image" />
+                  <h5>Gen AI & ML</h5>
+                </div>
+                <div className="item">
                   <img src={meter1} alt="Image" />
                   <h5>Python</h5>
                 </div>
                 <div className="item">
                   <img src={meter2} alt="Image" />
-                  <h5>Java</h5>
-                </div>
-                <div className="item">
-                  <img src={meter3} alt="Image" />
-                  <h5>JavaScript</h5>
-                </div>
-                <div className="item">
-                  <img src={meter1} alt="Image" />
                   <h5>Data Science & Analytics</h5>
                 </div>
                 <div className="item">
-                  <img src={meter2} alt="Image" />
+                  <img src={meter3} alt="Image" />
                   <h5>AWS & GCP</h5>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="Image" />
-                  <h5>Gen AI & ML</h5>
+                  <img src={meter1} alt="Image" />
+                  <h5>Java</h5>
+                </div>
+                <div className="item">
+                  <img src={meter2} alt="Image" />
+                  <h5>JavaScript</h5>
                 </div>
               </Carousel>
             </div>

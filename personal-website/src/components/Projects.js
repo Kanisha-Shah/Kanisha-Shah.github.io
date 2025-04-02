@@ -4,12 +4,14 @@ import { ProjectCard } from "./ProjectCard";
 import amazonLogo from "../assets/img/amazon-logo.jpeg";
 import dbLogo from "../assets/img/DB.jpg";
 import v360Logo from "../assets/img/V360.jpeg";
+import v360Logo2 from "../assets/img/v360Logo2.webp";
 
 import projLogo1 from "../assets/img/Netflix_for_research.jpg";
 import projLogo2 from "../assets/img/Alexa.png";
 import projLogo3 from "../assets/img/DS_Salary.jpg";
-import projLogo4 from "../assets/img/object-detection.png";
-import projLogo5 from "../assets/img/hallucination.png";
+import projLogo4 from "../assets/img/Medical Imaging System.png";
+import projLogo5 from "../assets/img/Hallucination Mitigation.jpeg";
+import projLogo6 from "../assets/img/AI Agents Portfolio Analysis.png";
 
 import presidentNU from "../assets/img/presidentNU.png";
 import CSINU from "../assets/img/CSInu.jpg";
@@ -27,25 +29,13 @@ export const Projects = () => {
 
   const experience = [
     {
-      title: "Data Scientist | Columbia Irving Medical Center",
-      description: "Developed a deep learning model to detect spinal cords in ultrasound images with 93-95% accuracy for clinical applications",
-      imgUrl: projLogo4,
-      githubLink: "https://www.linkedin.com/in/kanisha-shah97/#:~:text=Honors%20%26%20awards-,Data%20Science%20Institute%20Research%20Scholar,-Data%20Science%20Institute"
-    },
-    {
-      title: "Data Scientist | Elsevier",
-      description: "Designed a RAG-based pipeline using Claude & GPT with MedQuAD dataset to improve accuracy in medical question-answering models",
-      imgUrl: projLogo5,
-      githubLink: "https://www.linkedin.com/in/kanisha-shah97/#:~:text=all%206%20experiences-,Capstone%20Project%20%7C%20Data%20Science%20Institute%20%40%20Columbia%20University,-Capstone%20Project%20%7C%20Data"
-    },
-    {
       title: "Software Engineer | Amazon",
       description: "Redesigned search infrastructure and integrated AI-driven enhancements to improve query performance and search relevance",
       imgUrl: amazonLogo,
       githubLink: "https://www.linkedin.com/feed/update/urn:li:activity:7236850179675435009/"
     },
     {
-      title: "Software Developer| V360 Technology Inc.",
+      title: "Software Developer | V360 Technology Inc.",
       description: "Developed a probability-based data pipeline, optimizing inventory stock analysis and data consistency for diamond trading",
       imgUrl: v360Logo,
       githubLink: "https://github.com/Kanisha-Shah"
@@ -59,12 +49,18 @@ export const Projects = () => {
     {
       title: "Data Scientist | V360 Technology Inc.",
       description: "Built AI-driven segmentation, cutting processing time by 72%",
-      imgUrl: v360Logo,
+      imgUrl: v360Logo2,
       githubLink: "https://github.com/Kanisha-Shah"
     }
   ];
 
   const projects = [
+    {
+      title: "Portfolio AI Analayer",
+      description: "AI-powered platform that orchestrates market data, risk analysis, and LLM-driven optimization to deliver personalized, actionable portfolio recommendations and reports",
+      imgUrl: projLogo6,
+      githubLink: "https://github.com/Kanisha-Shah/PortfolioOptimizationAI"
+    },
     {
       title: "Medical AI Research | Automated Object Detection",
       description: "Developed a deep learning model to detect spinal cords in ultrasound images with 93-95% accuracy for clinical applications",
