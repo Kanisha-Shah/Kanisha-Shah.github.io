@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ada1a66d.css",
-    "main.js": "/static/js/main.69004dfe.js",
+    "main.js": "/static/js/main.3a54e653.js",
     "static/js/488.ee17302e.chunk.js": "/static/js/488.ee17302e.chunk.js",
     "static/media/Kanisha Shah Photo.jpg": "/static/media/Kanisha Shah Photo.4019acf3a3aa0ee82ef5.jpg",
     "static/media/AI Agents Portfolio Analysis.png": "/static/media/AI Agents Portfolio Analysis.69ee2f754af022561a79.png",
@@ -12,6 +12,7 @@
     "static/media/Netflix_for_research.jpg": "/static/media/Netflix_for_research.c5e4eed796b139583ab2.jpg",
     "static/media/nav-icon2.png": "/static/media/nav-icon2.ef3ecd96459cc67fa761.png",
     "static/media/amazon-logo.jpeg": "/static/media/amazon-logo.694adbee74b4d3ad4e6e.jpeg",
+    "static/media/Alexa.png": "/static/media/Alexa.4e9028546a46025fc3eb.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/DSI.jpeg": "/static/media/DSI.7343d3cabe2b0cd9302f.jpeg",
     "static/media/Hallucination Mitigation.jpeg": "/static/media/Hallucination Mitigation.d30569d0acf6cffa8acd.jpeg",
@@ -40,11 +41,11 @@
     "static/media/arrow2.svg": "/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.ada1a66d.css.map": "/static/css/main.ada1a66d.css.map",
-    "main.69004dfe.js.map": "/static/js/main.69004dfe.js.map",
+    "main.3a54e653.js.map": "/static/js/main.3a54e653.js.map",
     "488.ee17302e.chunk.js.map": "/static/js/488.ee17302e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ada1a66d.css",
-    "static/js/main.69004dfe.js"
+    "static/js/main.3a54e653.js"
   ]
 }
